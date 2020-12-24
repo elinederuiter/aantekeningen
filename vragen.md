@@ -5,4 +5,5 @@
 - wat is een void. Je geeft niks terug.
 
 ### 24-12-20
-- Wat is de staging area ook al weer? 
+- Wat is de staging area ook al weer?
+- ik heb de naam gewijzigd van een bestand en nu krijgen ik in de status een error te zien. Hoe los ik dit op?
