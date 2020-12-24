@@ -35,4 +35,16 @@ Github is een portaal van git repositories. Hierin kun je source code opslaan.
 
 Een commit is een toestand van alle (in versiebeheer) files op dat moment. Je maakt als het ware een momentopname van alle files op dat moment.
 
-We zijn begonnen met een aantal files maken op het werkstation van mijn macbook. Vervolgens hebben we een git repository aangemaakt `git init`. Vervolgens hebben we aan de git repository de files in de staging area gezet, die we willen gaan commiten `git add *`. * of naam van een file. Sterretje betekent hier alle files. Vervolgens kunnen we met `git status` wat de stand van zaken is. Vervolgens hebben we om een snapshot om van de huidige files die in staging area staan gemaakt met `git commit -m "message"`. Hiermee geeft de message weer welke wijzigen er zijn in de files die we willen committen. Als we deze wijzigingen ook op de remote git repository willen zien, dan pushen we ze daarnaar toe met `git push`. `git diff` geeft de wijzingen weer. 
+We zijn begonnen met een aantal files maken op het werkstation van mijn macbook. Vervolgens hebben we een git repository aangemaakt `git init`. Vervolgens hebben we aan de git repository de files in de staging area gezet, die we willen gaan commiten `git add *`. * of naam van een file. Sterretje betekent hier alle files. Vervolgens kunnen we met `git status` wat de stand van zaken is. Vervolgens hebben we om een snapshot om van de huidige files die in staging area staan gemaakt met `git commit -m "message"`. Hiermee geeft de message weer welke wijzigen er zijn in de files die we willen committen. Als we deze wijzigingen ook op de remote git repository willen zien, dan pushen we ze daarnaar toe met `git push`. `git diff` geeft de wijzingen weer.
+
+## 24-12-2020
+SDKman (software development kit)
+- Meerdere versies van Java
+- Per project dat je wil developen, kan je switchen
+
+Je hebt ook de JAVA sdk. Dit is de java software development kit. We hebben de SDK man gedownload en geinstalleerd. Daarna hebben we een java versie geinstalleerd met de SDKman.
+
+`sdk install java 11.0.9.hs-adpt` = met behulp van `sdk` een de java versie geïnstalleerd. De editie `11.0.9.hs-adpt`.
+`sdk list java` geeft overzicht van alle java edities en dit heet ook wel java identifiers. En geeft ook weer welke versies geinstalleerd zijn, en welke op dit moment in gebruik is.
+`sdk current` geeft aan wat er nu (in de huidige terminal) actief is.
+`java -version` geeft ook aan welke Java versie in de huidige terminal actief is.

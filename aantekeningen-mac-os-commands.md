@@ -11,9 +11,20 @@
 `cd` = change directory, hiermee geef je aan naar welke directory je wilt.
 `touch` = hiermee maak je een leeg nieuw bestand aan.
 `echo`= hiermee echo je de tekst die daar achteraan komt naar je terminal of naar een bestand  
-drwx staat voor: directory, read write en execute. Dit zijn 3 groepjes.   
+drwx staat voor: directory, read write en execute. Dit zijn 3 groepjes.
+`history` = hiermee kun je de eerder gebruikte commando's opvragen.
 
+Verschillende prompts
 
+De prompt laat zien welke type gebruiker ingelogd moet zijn omdat type command uit te kunnen voeren.
+
+`$> ` standard gebruiker  
+`#> ` administrator gebruiker
+
+## Markdown tips
+- Command of stukje code '`' tussen back quotes En één extra om Atom niet in de war te maken '`'
+- Heel block text 3 back quotes '```' aan begin en aan het einde '```'
+- [GitHub Guide Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 
