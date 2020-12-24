@@ -4,4 +4,5 @@
 - wat is een frame? Waarschijnlijk gaat dit over de refresh rate. Hoe vaak het scherm opnieuw ververst wordt. Iedere keer dat het scherm opnieuw opgezet wordt.
 - wat is een void. Je geeft niks terug.
 
-  
+### 24-12-20
+- Wat is de staging area ook al weer? 
