@@ -31,3 +31,5 @@ Changes not staged for commit:
 
 MacBook-Air-van-Eline:aantekeningen elinederuiter$ git add aantekningen-mac-os-commands.md
 ```
+
+- Ik ben bezig met het boek voor testers. Er wordt gevraagd om Maven te installeren. Zou je me daarbij willen helpen? 
