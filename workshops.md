@@ -48,3 +48,15 @@ Je hebt ook de JAVA sdk. Dit is de java software development kit. We hebben de S
 `sdk list java` geeft overzicht van alle java edities en dit heet ook wel java identifiers. En geeft ook weer welke versies geinstalleerd zijn, en welke op dit moment in gebruik is.
 `sdk current` geeft aan wat er nu (in de huidige terminal) actief is.
 `java -version` geeft ook aan welke Java versie in de huidige terminal actief is.
+
+## 07-01-2021
+Indien je meerdere kolommen tegelijk wil gebruiken, dan druk je shift-control tegelijk in en vervolgens scroll je doormiddel van de pijltjestoetsen. Je kunt dan bijvoorbeeld spaties zetten of andere characters.
+
+In teksten worden vaak commando's gebruikt om aan te geven welke gebruiker uit moet voeren.
+
+`$` - Geeft aan normale gebruiker  
+`#` - Geeft aan administrator (root user)
+
+Maven is een build tool. Dit helpt je om de applicatie te bouwen. Aan de ene kant moeten de java files gecompileerd worden. De human readable files worden omgezet van `*.java` files naar `*.class` files.  
+
+De java files zijn leesbaar voor developers. De class files zijn leesbaar voor de java virtual machine (jvm). Dit is een virtuele computer en ieder besturingssysteem heeft zijn eigen jvm. Op die jvm kunnen weer de standaard gecompileerde java classes draaien. 
